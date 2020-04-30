@@ -1,0 +1,4 @@
+render() {
+        const { isDone, text, tag } = this.props.item;
+
+        return (
