@@ -1,6 +1,6 @@
 import React from 'react';
 import {AddingItem} from './addingItem/addingItem';
-import itemList from './itemList/itemList';
+import ItemList from './itemList/itemList';
 import {ToDoList} from './toDoList/toDoList';
 import {EditPopup} from './editPopup/editPopup';
 import './App.css';
